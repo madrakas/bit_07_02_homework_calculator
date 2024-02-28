@@ -17,7 +17,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Design from [this template](https://dribbble.com/shots/16203931/attachments/8064185?mode=media) 
 
-View deployed result on [my github](https://madrakas.github.io/bit_08_simple-react-page-design/)
+View deployed result on [my github](https://madrakas.github.io/bit_07_02_homework_calculator/)
 
 ## 🧭 Other repositories from same course
 1. [General programming skills and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
