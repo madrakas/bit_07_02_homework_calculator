@@ -1,6 +1,6 @@
 {
-  "homepage": "http://madrakas.github.io/bit_09_calculator/",
-  "name": "bit_09_calculator",
+  "homepage": "http://madrakas.github.io/bit_07_02_homework_calculator",
+  "name": "bit_07_02_homework_calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.1.1"
   }
 }
