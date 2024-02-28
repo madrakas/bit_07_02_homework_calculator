@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# BIT Full stack developer course – Part 7. Practice No.2: React use hooks and props
+# BIT Full stack developer course – Part 7. Practice No.2: React calculator
 
 _My journey to become a full stack developer_
 
@@ -11,7 +11,7 @@ _My journey to become a full stack developer_
 
 ## 🌟 About
 
-This project is a part of my workbook from Full stack developers course at BIT This is the 7th part of the course. Pratcice No.2 React use hooks and props
+This project is a part of my workbook from Full stack developers course at BIT This is the 7th part of the course. Pratcice No.2 React calculator
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
